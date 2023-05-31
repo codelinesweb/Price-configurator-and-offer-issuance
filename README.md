@@ -11,4 +11,4 @@ Security Vulnerabilities
 If you discover a security vulnerability within Laravel, please send an e-mail to Eugen Mihai via eugen@fabricadesite.ro. All security vulnerabilities will be promptly addressed.
 
 License
-The Price configurator and offer issuance is open-sourced software licensed under the MIT license.
+The Price configurator and offer issuance is open-sourced software licensed under the GNU GENERAL PUBLIC license.
